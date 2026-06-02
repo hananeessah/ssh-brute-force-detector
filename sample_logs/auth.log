@@ -1,0 +1,9 @@
+Mar 10 08:30:15 server sshd[1234]: Failed password for root from 192.168.1.100 port 12345 ssh2 
+Mar 10 08:30:17 server sshd[1235]: Failed password for root from 192.168.1.100 port 12346 ssh2 
+Mar 10 08:30:19 server sshd[1236]: Failed password for root from 192.168.1.100 port 12347 ssh2 
+Mar 10 08:30:21 server sshd[1237]: Failed password for root from 192.168.1.100 port 12348 ssh2 
+Mar 10 08:30:23 server sshd[1238]: Failed password for root from 192.168.1.100 port 12349 ssh2 
+Mar 10 08:30:25 server sshd[1239]: Failed password for root from 192.168.1.100 port 12350 ssh2 
+Mar 10 08:31:10 server sshd[1300]: Failed password for admin from 10.0.0.50 port 54321 ssh2 
+Mar 10 08:31:12 server sshd[1301]: Failed password for admin from 10.0.0.50 port 54322 ssh2 
+Mar 10 08:32:00 server sshd[1400]: Accepted password for john from 192.168.1.200 port 60000 ssh2 
